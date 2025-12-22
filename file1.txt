@@ -1,1 +1,2 @@
 This is file1.txt of master branch
+This is file1.txt of branch3
